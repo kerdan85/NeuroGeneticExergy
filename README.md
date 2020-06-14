@@ -1,4 +1,4 @@
 # NeurogeneticExergy
 ANN/GA for neural network structure optimisation
 
-https://zenodo.org/badge/latestdoi/264465907
+Cite the code: [![DOI](https://zenodo.org/badge/264465907.svg)](https://zenodo.org/badge/latestdoi/264465907)
