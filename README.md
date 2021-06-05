@@ -58,5 +58,5 @@ The latest release has been archived in Zenodo (doi: https://doi.org/10.5281/zen
 
 For more information and applications please read the following article:
 
-Iván García Kerdan, David Morillón Gálvez, **Artificial neural network structure optimisation for accurately prediction of exergy, comfort and life cycle cost performance of a low energy building**, Applied Energy, Volume 280, 2020, 115862, ISSN 0306-2619, https://doi.org/10.1016/j.apenergy.2020.115862.
+García Kerdan, I. Morillón Gálvez, D. (2020). **Artificial neural network structure optimisation for accurately prediction of exergy, comfort and life cycle cost performance of a low energy building**. Applied Energy, 280, 115862. https://doi.org/10.1016/j.apenergy.2020.115862.
 (https://www.sciencedirect.com/science/article/pii/S0306261920313350)
