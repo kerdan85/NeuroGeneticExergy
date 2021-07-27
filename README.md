@@ -6,7 +6,7 @@ Cite the code: [![DOI](https://zenodo.org/badge/264465907.svg)](https://zenodo.o
 **1. Overral Framework**
 The proposed exergy-based neuro-genetic framework can be summarised in the following steps:
 
-  1.1. Building energy/exergy baseline simulation model development. In this step, a detailed building energy model is thermodynamically evaluated using ExRET-Opt [51], a recently developed building simulation tool based on the EnergyPlus engine [52] that further integrates exergy and exergoeconomics analyses.
+  1.1. Building energy/exergy baseline simulation model development. In this step, a detailed building energy model is thermodynamically evaluated using ExRET-Opt [1], a recently developed building simulation tool based on the EnergyPlus engine [2] that further integrates exergy and exergoeconomics analyses.
 
   1.2. Parametric study design and simulation. Considering different building energy technologies and measures, a near-random sample is generated using Latin Hypercube Sampling (LHS) method and simulated using ExRET-Opt. The aim at this stage is to generate a comprehensive database that would be used to train the ANN.
 
